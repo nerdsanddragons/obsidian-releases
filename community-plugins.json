@@ -43706,5 +43706,12 @@
     "author": "Vladimir Ivanov",
     "description": "Run SQL against a CloudBeaver server from a console tab or from code blocks in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "daelynum/obsidian-cloudbeaver-plugin"
+  },
+    {
+    "id": "bastion",
+    "name": "Bastion",
+    "author": "Chad Kirkendall",
+    "description": "Vault manager and AI assistant — the same dashboard as the Bastion web app, running inside Obsidian. (Closed source)",
+    "repo": "nerdsanddragons/bastion-obsidian-plugin"
   }
 ]
