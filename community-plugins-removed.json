@@ -875,5 +875,10 @@
     "id": "docusaurus-style-admonitions",
     "name": "Docusaurus Style Admonitions",
     "reason": "Repository archived"
+  },
+  {
+    "id": "bastion",
+    "name": "Bastion",
+    "reason": "No longer maintained"
   }
 ]

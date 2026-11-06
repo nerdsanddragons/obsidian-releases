@@ -43533,13 +43533,6 @@
     "repo": "benhancock/daily-note-icon"
   },
   {
-    "id": "bastion",
-    "name": "Bastion",
-    "author": "Chad Kirkendall",
-    "description": "Bastion turns your Obsidian vault into a full command center — AI search, tasks, projects, a calendar, and dashboards — without asking you to restructure a single note. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "nerdsanddragons/bastion-obsidian-plugin"
-  },
-  {
     "id": "convert-to-markdown",
     "name": "Convert to Markdown",
     "author": "notenerd",
